@@ -15,5 +15,5 @@ setup(
     author_email='taobo.hu@scilife.se',
     license='unlicense',
     packages=['pythonPackage'],
-    zip_safe='False'
+    zip_safe=False
 )
